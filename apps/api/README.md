@@ -71,3 +71,15 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## Errors
+
+- Query root type must be provided
+we need at least one query handlers in this file.
+
+## Installation
+`
+- @nestjs/config for env config
+- @nestjs/graphql @nestjs/apollo @apollo/server @as-integrations/fastify graphql 
+for graphql nestjs with Fastify
